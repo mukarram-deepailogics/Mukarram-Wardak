@@ -4,14 +4,14 @@ Transforming ideas into intelligent systems with AI-powered backend solutions.<b
 Innovating and building scalable, AI-driven applications that deliver results.<br/>
 
 Skills:                             
-Machine Learning:         Others: 
-• Scikit-learn            • FastAPI    
-• Pytorch                 • Streamlit 
-• NLTK                    • Firebase 
-• Transformers            • Docker 
-                          • Weaviate
-                          • PostgresSQL 
-                          
+Machine Learning:       
+• Scikit-learn            • Pytorch                
+• NLTK                    • Transformers           
+ Others: 
+• FastAPI                 • Firebase            
+• Docker                  • Weaviate
+• PostgresSQL 
+
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mukarram@deepailogics.com) 
 
