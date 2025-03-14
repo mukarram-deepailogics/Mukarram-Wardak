@@ -1,12 +1,17 @@
 ##  Hi, Im Mukarram
-#  Backend Developer | Prompt Engineer<br/>
-#  Transforming ideas into intelligent systems with AI-powered backend solutions.<br/>
-#  Innovating and building scalable, AI-driven applications that deliver results.<br/>
+Backend Developer | Prompt Engineer<br/>
+Transforming ideas into intelligent systems with AI-powered backend solutions.<br/>
+Innovating and building scalable, AI-driven applications that deliver results.<br/>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
+Skills:                             
+Machine Learning:         Others: 
+• Scikit-learn            • FastAPI    
+• Pytorch                 • Streamlit 
+• NLTK                    • Firebase 
+• Transformers            • Docker 
+                          • Weaviate
+                          • PostgresSQL 
+                          
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mukarram@deepailogics.com) 
 
